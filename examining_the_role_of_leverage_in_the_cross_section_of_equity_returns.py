@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """Examining the Role of Leverage in the Cross-Section of Equity Returns.ipynb
+This is the coding of my supervised project with the following abstract:
 
+The purpose of this study is to evaluate the performance of asset pricing models, such as the Capital Asset Pricing Model (CAPM) and the Fama-French three-factor model, in accounting for the effects of leverage. It draws inspiration from the research conducted by Doshi, Jacobs et al. (2019) and builds upon the existing theoretical asset pricing literature. We aim to investigate the role of market risk as well as anomalies such as size and book-to-market (BTM) ratio in explaining the cross-section of unlevered equity returns. Additionally, understanding the influence of these factors on the cross-section of unlevered equity returns can contribute to a better understanding of asset valuation and pricing dynamics. We observe that the presence of heteroskedasticity in returns due to leverage can distort the observed patterns and affect the valuation of assets. Unlevering returns helps to remove this influence, resulting in the disappearance of the value premium and the size effect seen in unlevered returns.
 
 """
 
